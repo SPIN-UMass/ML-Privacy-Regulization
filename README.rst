@@ -2,6 +2,8 @@
 Machine Learning with Membership Privacy using Adversarial Regularizatio
 ###
 
+.. description-marker-do-not-remove
+
 ===============
 Getting started
 ===============
