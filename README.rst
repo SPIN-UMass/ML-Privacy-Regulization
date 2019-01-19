@@ -1,6 +1,6 @@
-###
-Machine Learning with Membership Privacy using Adversarial Regularizatio
-###
+
+Machine Learning with Membership Privacy using Adversarial Regularization
+=========================================================================
 
 .. description-marker-do-not-remove
 
@@ -10,11 +10,10 @@ Getting started
 
 requirements:
 
-You can install mia from PyPI:
-
 .. code-block::  bash
 
-    pip install mia
+    numpy
+    pytorch
 
 .. usage-marker-do-not-remove
 
@@ -24,6 +23,7 @@ Usage
 ===============
 
 Purchase dataset:
+
 .. code-block::  bash
 
     python PPN_Purchase_GIT.py
