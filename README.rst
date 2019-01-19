@@ -29,3 +29,22 @@ Purchase dataset:
     python PPN_Purchase_GIT.py
 
 .. usage-marker-do-not-remove
+
+
+Texas dataset:
+
+.. code-block::  bash
+
+    python PPN_Texas_GIT.py
+
+.. usage-marker-do-not-remove
+
+
+
+CIFAR dataset:
+
+.. code-block::  bash
+
+    python PPN_Alexnet_GIT.py
+
+.. usage-marker-do-not-remove
