@@ -10,10 +10,14 @@ Getting started
 
 requirements:
 
+You can install mia from PyPI:
+
 .. code-block::  bash
-    numpy
-    pytorch
+
+    pip install mia
+
 .. usage-marker-do-not-remove
+
 
 ===============
 Usage
