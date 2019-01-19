@@ -1,6 +1,5 @@
 ###
-Machine Learning with Membership Privacy
-using Adversarial Regularizatio
+Machine Learning with Membership Privacy using Adversarial Regularizatio
 ###
 
 ===============
